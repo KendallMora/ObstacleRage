@@ -1,6 +1,7 @@
 # ObstacleRage
 ParkourGame
 Example Applications :
+
 -->🌪️ Spinning obstacles (rotation)
 
 -->🚇 Moving platforms (waypoint movement)
